@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1550876315 source:c:\users\asus\desktop\programing\mountain paths\main.cpp
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"apmatrix.h"
+	"object.h"
+	"function.h"
+
+1550618187 c:\users\asus\desktop\programing\mountain paths\apmatrix.h
+	"apvector.h"
+	"apmatrix.cpp"
+
+1550618414 c:\users\asus\desktop\programing\mountain paths\apvector.h
+	"apvector.cpp"
+
+1550618485 c:\users\asus\desktop\programing\mountain paths\apvector.cpp
+	<stdlib.h>
+	<assert.h>
+	<iostream>
+	"apvector.h"
+
+1550618561 c:\users\asus\desktop\programing\mountain paths\apmatrix.cpp
+	"apmatrix.h"
+	<stdlib.h>
+	<iostream>
+
+1550855525 c:\users\asus\desktop\programing\mountain paths\object.h
+
+1550877737 c:\users\asus\desktop\programing\mountain paths\function.h
+
+1551145719 source:e:\c++\mountain path\main.cpp
+	<time.h>
+	<iostream>
+	<fstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"apmatrix.h"
+	"object.h"
+
+1550618187 e:\c++\mountain path\apmatrix.h
+	"apvector.h"
+	"apmatrix.cpp"
+
+1550618414 e:\c++\mountain path\apvector.h
+	"apvector.cpp"
+
+1550618485 e:\c++\mountain path\apvector.cpp
+	<stdlib.h>
+	<assert.h>
+	<iostream>
+	"apvector.h"
+
+1550618561 e:\c++\mountain path\apmatrix.cpp
+	"apmatrix.h"
+	<stdlib.h>
+	<iostream>
+
+1551145773 e:\c++\mountain path\object.h
+
+1551101173 e:\c++\mountain path\function.h
+
+1551041913 e:\c++\mountain path\functions.cpp
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"apmatrix.h"
+
+1551041913 source:e:\c++\mountain path\functions.cpp
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"apmatrix.h"
+
+1551146314 source:e:\c++\mountain path\function.cpp
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"apmatrix.h"
+
+1551047006 e:\c++\mountain path\function.cpp
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"apmatrix.h"
+
+1551146815 source:e:\c++\mountain path\draw.cpp
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"apmatrix.h"
+
